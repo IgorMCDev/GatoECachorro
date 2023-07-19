@@ -1,7 +1,7 @@
 # Som animal
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg?style=plastic)](https://www.python.org/downloads/release/python-3114/)
+[![Python 3.11](https://img.shields.io/badge/python-311-blue.svg?style=plastic)](https://www.python.org/downloads/release/python-3114/)
 
 Esse projeto foi desenvolvido em python seguindo os principios do POO com o intuito de praticar e exemplificar o polimorfismo.
 
