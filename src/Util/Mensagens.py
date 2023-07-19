@@ -6,7 +6,7 @@ class Mensagens():
             '1    =>    Gato \n' + \
             '2    =>    Cachorro \n\n' + \
             'Ou, ainda digite:\n' + \
-            '3    =>  Para obter o histórico de animais.\n' + \
+            'histórico    =>  Para obter o histórico de animais.\n' + \
             'exit =>  Para finalizar a execução.\n'
         self.CONST_ADIOS = 'Até a próxima.'
         self.CONST_ESCOLHA_ERRADA = 'Essa ecolha não existe'
